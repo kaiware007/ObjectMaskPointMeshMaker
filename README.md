@@ -1,0 +1,2 @@
+# ObjectMaskPointMeshMaker
+Colliderで切り抜いた点群Meshを作るEditor拡張
